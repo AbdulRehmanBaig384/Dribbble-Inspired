@@ -1,4 +1,4 @@
-🚀 Dribble Website
+🚀 Dribbble-Inspired 
 
 A modern and awesome responsive website inspired by Dribbble's design aesthetics, built using HTML, CSS, Bootstrap, and JavaScript.
 
