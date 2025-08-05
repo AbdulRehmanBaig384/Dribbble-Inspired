@@ -54,4 +54,5 @@ git clone https://github.com/AbdulRehmanBaig384/Dribble_website.git
 🤝 Contributing
 
 Feel free to contribute to this project by submitting issues or pull requests. Let's build something amazing together! 🚀
+This repository is made for developing modern UI
 
